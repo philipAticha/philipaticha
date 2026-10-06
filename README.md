@@ -5,7 +5,7 @@
 
  I build scalable applications with a focus on clean architecture and real-world problem solving.
 
-     Tech Stack
+     Tech stack
 Languages: Java, Dart, Python, C/C++
 Mobile: Flutter (Android)
 Backend: Spring Boot, Serverpod, Django
@@ -42,7 +42,7 @@ A web application demonstrating client-side form validation using HTML5, CSS3, a
 
 
 
-       What I'm Working On
+      What I'm workin on 
 
 Improving performance and scalability of Meal Muse
 
@@ -56,7 +56,7 @@ Exploring cloud computing and AI integration
 
 
   
-  🫱🏾‍🫲🏾 Let's Connect
+     🫱🏾‍🫲🏾Lets connect
 
 . Email; [philipaticha@gmail.com](mailto:philipaticha@gmail.com)
 . LinkedIn;[https://www.linkedin.com/in/philip-aticha-b435b942a](https://www.linkedin.com/in/philip-aticha-b435b942a)
