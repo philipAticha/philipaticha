@@ -43,8 +43,11 @@ A web application demonstrating client-side form validation using HTML5, CSS3, a
        What I'm Working On
 
 Improving performance and scalability of Meal Muse
+
 Backend systems and API design
+
 Flutter apps with clean architecture
+
 Exploring cloud computing and AI integration
   
 
