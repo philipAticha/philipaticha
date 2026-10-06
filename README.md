@@ -15,6 +15,29 @@ Tools: Git, Linux, VS Code, IntelliJ, Docker, Postman
 
 
        Projects
+  Number Converter
+
+Android application for converting numbers between decimal, binary, octal, and hexadecimal number systems.
+
+* Built with Java, Android SDK, XML Layouts, and Gradle
+* Features real-time conversion, input validation, error handling, and a clean Material Design interface
+
+👉🏾https://github.com/philipAticha/NumberConverter.git
+
+
+
+  Form Validation Input
+
+A web application demonstrating client-side form validation using HTML5, CSS3, and Vanilla JavaScript.
+
+* Built with HTML5, CSS3, and JavaScript
+* Features input validation, email and password checks, error feedback, and prevention of invalid submissions
+
+👉🏾https://github.com/philipAticha/form-validation-input.git
+
+ 
+
+
 
 
        What I'm Working On
