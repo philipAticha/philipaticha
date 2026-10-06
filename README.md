@@ -1,7 +1,7 @@
 
  Hi, I'm Philip Aticha 👋🏾
  
-  Full-Stack Developer · Backend & Mobile Developer
+  Full-Stack Developer / Backend & Mobile Developer
 
  I build scalable applications with a focus on clean architecture and real-world problem solving.
 
