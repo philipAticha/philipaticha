@@ -58,7 +58,7 @@ Exploring cloud computing and AI integration
 
 
   
-     🫱🏾‍🫲🏾Lets connect
+     Lets connect🫱🏾‍🫲🏾
 
 . Email; [philipaticha@gmail.com](mailto:philipaticha@gmail.com)
 . LinkedIn;[https://www.linkedin.com/in/philip-aticha-b435b942a](https://www.linkedin.com/in/philip-aticha-b435b942a)
