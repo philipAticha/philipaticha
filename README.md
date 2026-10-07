@@ -7,7 +7,9 @@
 
      Tech stack
 Languages: Java, Dart, Python, C/C++
+
 Mobile: Flutter (Android)
+
 Backend: Spring Boot, Serverpod, Django
 
 Database: MySQL, PostgreSQL
