@@ -26,7 +26,7 @@ Android application for converting numbers between decimal, binary, octal, and h
 * Built with Java, Android SDK, XML Layouts, and Gradle
 * Features real-time conversion, input validation, error handling, and a clean Material Design interface
 
-👉🏾https://github.com/philipAticha/NumberConverter.git
+      👉🏾https://github.com/philipAticha/NumberConverter.git
 
 
 
@@ -37,7 +37,7 @@ A web application demonstrating client-side form validation using HTML5, CSS3, a
 * Built with HTML5, CSS3, and JavaScript
 * Features input validation, email and password checks, error feedback, and prevention of invalid submissions
 
-👉🏾https://github.com/philipAticha/form-validation-input.git
+      👉🏾https://github.com/philipAticha/form-validation-input.git
 
  
 
